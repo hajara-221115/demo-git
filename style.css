@@ -118,5 +118,15 @@ a:hover, a:active{
 .iframe{
     margin-top:20px;
     margin-left:42%;
-    background-color:rgb(243, 169, 206);
+    background-color:rgb(238, 153, 227);
+}
+table,th,td{
+    border:2px solid black;
+    border-collapse:collapse;
+    margin-top:20px;
+    margin-left:40%;
+    background-color:rgb(238, 153, 227);
+    font-size:18px;
+    padding:10px;
+    text-align:center;
 }
