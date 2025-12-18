@@ -26,6 +26,7 @@ p{
     margin-top:20px;
     margin-left:40%;
 }
+
 #btn1{
     border-radius:10px;
     background-color:black;
@@ -37,29 +38,30 @@ p{
     margin-top:10px;
     margin-left:47%;
 }
-/*.drop1{
-    display:none;
-    position:absolute;
-    background-color:#f0f9f9;
-    min-width:160px;
-    box-shadow:0px 8px 16px rgba(0,0,0,0.2);
-    z-index:1;
-}*/
+
 
 #div3{
     margin-top:20px;
     margin-left:40%;
 }
-#btn2{
-    border-radius:20px;
+
+a:link, a:visited{
+    border-radius:10px;
     background-color:black;
     color:white;
-    font-size:20px;
+    font-size:30px;
     text-align:center;
-    height:50px;
-    width:100px;
-    margin-top:10px;
+    align-items:center;
+    justify-content:space-around;
+    height:45px;
+    width:110px;
+    text-decoration:none;
+    display:inline-block;
+    margin-top:20px;
     margin-left:47%;
+}
+a:hover, a:active{
+    background-color:red;
 }
 
 #div5{
@@ -102,4 +104,19 @@ p{
 
 }
 
+.hbdgif{
+    margin-top:20px;
+    margin-left:42%;
+    border-radius:10px;
+}
 
+.chand{
+    margin-top:20px;
+    margin-left:42%;
+}
+
+.iframe{
+    margin-top:20px;
+    margin-left:42%;
+    background-color:rgb(243, 169, 206);
+}
