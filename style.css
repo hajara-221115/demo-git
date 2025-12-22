@@ -27,7 +27,7 @@ p{
     margin-left:40%;
 }
 
-#btn1{
+/*#btn1{
     border-radius:10px;
     background-color:black;
     color:white;
@@ -37,7 +37,7 @@ p{
     width:100px;
     margin-top:10px;
     margin-left:47%;
-}
+}*/
 
 
 #div3{
@@ -45,7 +45,7 @@ p{
     margin-left:40%;
 }
 
-a:link, a:visited{
+.a1:link, .a1:visited{
     border-radius:10px;
     background-color:black;
     color:white;
@@ -60,7 +60,7 @@ a:link, a:visited{
     margin-top:20px;
     margin-left:47%;
 }
-a:hover, a:active{
+.a1:hover, .a1:active{
     background-color:red;
 }
 
@@ -68,7 +68,7 @@ a:hover, a:active{
     margin-top:20px;
     margin-left:40%;
 }
-#btn3{
+/*#btn3{
     border-radius:10px;
     background-color:black;
     color:white;
@@ -78,13 +78,13 @@ a:hover, a:active{
     width:100px;
     margin-top:10px;
     margin-left:47%;
-}
+}*/
 
 #div7{
     margin-top:20px;
     margin-left:40%;
 }
-#btn4{
+/*#btn4{
     border-radius:10px;
     background-color:black;
     color:white;
@@ -94,7 +94,7 @@ a:hover, a:active{
     width:100px;
     margin-top:10px;
     margin-left:47%;
-}
+}*/
 
 .h5{
     text-align:"center";
@@ -120,13 +120,31 @@ a:hover, a:active{
     margin-left:42%;
     background-color:rgb(238, 153, 227);
 }
-table,th,td{
-    border:2px solid black;
-    border-collapse:collapse;
+.iframe1{
     margin-top:20px;
-    margin-left:40%;
+    margin-left:42%;
     background-color:rgb(238, 153, 227);
+}
+
+.tables{
+    display:flex;
+    gap:100px;
+    justify-content:center;
+    margin-top:40px;
+}
+
+.External{
+    border-collapse:collapse;
+    border:2px dotted black;
+    border-collapse:collapse;
+    background-color:rgb(247, 144, 233);
     font-size:18px;
     padding:10px;
     text-align:center;
+}
+.External th{
+    background-color:rgb(243, 97, 199);
+}
+.cap{
+    font-size:25px;
 }
