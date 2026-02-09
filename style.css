@@ -27,19 +27,6 @@ p{
     margin-left:40%;
 }
 
-/*#btn1{
-    border-radius:10px;
-    background-color:black;
-    color:white;
-    font-size:20px;
-    text-align:center;
-    height:50px;
-    width:100px;
-    margin-top:10px;
-    margin-left:47%;
-}*/
-
-
 #div3{
     margin-top:20px;
     margin-left:40%;
@@ -68,33 +55,11 @@ p{
     margin-top:20px;
     margin-left:40%;
 }
-/*#btn3{
-    border-radius:10px;
-    background-color:black;
-    color:white;
-    font-size:20px;
-    text-align:center;
-    height:50px;
-    width:100px;
-    margin-top:10px;
-    margin-left:47%;
-}*/
 
 #div7{
     margin-top:20px;
     margin-left:40%;
 }
-/*#btn4{
-    border-radius:10px;
-    background-color:black;
-    color:white;
-    font-size:20px;
-    text-align:center;
-    height:50px;
-    width:100px;
-    margin-top:10px;
-    margin-left:47%;
-}*/
 
 .h5{
     text-align:"center";
@@ -147,4 +112,9 @@ p{
 }
 .cap{
     font-size:25px;
+}
+
+.form1{
+    margin-top:30px;
+    margin-left:45%;
 }
